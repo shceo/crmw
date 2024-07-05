@@ -1,0 +1,9 @@
+arb-dir: lib/src/localization/l10n
+template-arb-file: app_ru.arb
+output-localization-file: crm_localizations.dart
+output-class: CrmLocalization
+nullable-getter: false
+synthetic-package: false
+output-dir: lib/src/localization/flutter_gen
+supported-languages:
+  - ru
